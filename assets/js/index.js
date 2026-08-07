@@ -67,7 +67,7 @@ let apiKey = "yYjVYqyInFYCnoMbJhAywaYrCjcItLc6UWyyYerk";
                   type="date"
                   id="apod-date-input"
                   class="custom-date-input"
-                  value="${today}"
+                  value="${apod.date}"
                   max="${today}"
                   min="1995-06-16"
                 />
